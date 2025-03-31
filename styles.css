@@ -27,7 +27,7 @@ button {
 }
 
 button:hover{
-    border: 3px solid blueviolet;
+    border: 3px solid rgb(108, 42, 169);
 }
 
 .wrapper {
@@ -61,7 +61,7 @@ button:hover{
 }
 
 #item1, #item2, #item3{
-    background-color: blueviolet;
+    background-color: rgb(108, 42, 169);
     height: 30px;
     border-radius: 5px;
 }
